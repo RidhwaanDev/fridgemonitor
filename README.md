@@ -1,5 +1,5 @@
-# fridgemonitor
-Monitor temperature through a lightweight IoT device. Meant for HVAC and food service solutions.
+# fridgemonitor v2
+Monitor temperature through a lightweight IoT device. Meant for HVAC and food service solutions. 
 
 
 ## Here's how it works
